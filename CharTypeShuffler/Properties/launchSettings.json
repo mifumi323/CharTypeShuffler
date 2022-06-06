@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CharTypeShuffler (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CharTypeShuffler (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
